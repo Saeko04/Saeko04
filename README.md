@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saeko04
 - 👀 I’m interested in programming and video games
 - 🌱 I’m currently learning programming like Python, Java, SQL, etc...
-- 📫 How to reach me here and on discord
+- 📫 How to reach me : here and on discord
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a gamer girl 🎮👩‍💻
 
